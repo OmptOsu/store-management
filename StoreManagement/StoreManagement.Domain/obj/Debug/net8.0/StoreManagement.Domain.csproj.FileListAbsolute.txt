@@ -1,0 +1,12 @@
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\bin\Debug\net8.0\StoreManagement.Domain.deps.json
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\bin\Debug\net8.0\StoreManagement.Domain.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\bin\Debug\net8.0\StoreManagement.Domain.pdb
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.sourcelink.json
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\refint\StoreManagement.Domain.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\StoreManagement.Domain.pdb
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Domain\obj\Debug\net8.0\ref\StoreManagement.Domain.dll

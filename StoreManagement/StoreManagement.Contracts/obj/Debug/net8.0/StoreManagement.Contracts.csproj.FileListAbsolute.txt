@@ -1,0 +1,12 @@
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\bin\Debug\net8.0\StoreManagement.Contracts.deps.json
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\bin\Debug\net8.0\StoreManagement.Contracts.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\bin\Debug\net8.0\StoreManagement.Contracts.pdb
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.AssemblyInfoInputs.cache
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.AssemblyInfo.cs
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.sourcelink.json
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\refint\StoreManagement.Contracts.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\StoreManagement.Contracts.pdb
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Contracts\obj\Debug\net8.0\ref\StoreManagement.Contracts.dll
