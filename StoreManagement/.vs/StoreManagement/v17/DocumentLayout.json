@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.api\\storemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|solutionrelative:storemanagement.api\\storemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|solutionrelative:storemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6479FDF8-28EF-40E3-B866-683E493A732C}|StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6479FDF8-28EF-40E3-B866-683E493A732C}|StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj|solutionrelative:storemanagement.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|solutionrelative:storemanagement.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|solutionrelative:storemanagement.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|solutionrelative:storemanagement.application\\services\\authentication\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.application\\services\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|solutionrelative:storemanagement.application\\services\\authentication\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4501CD9B-8A43-4BA1-B471-0D0F54B69323}|StoreManagement.Application\\StoreManagement.Application.csproj|solutionrelative:storemanagement.application\\services\\authentication\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|c:\\users\\dudu\\desktop\\projetos\\store-management-api\\storemanagement\\storemanagement.api\\storemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54B7D8B4-0E55-4769-B8A4-17F4E2B92712}|StoreManagement.Api\\StoreManagement.Api.csproj|solutionrelative:storemanagement.api\\storemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "StoreManagement.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:42:10.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "StoreManagement.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:30:48.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\Program.cs",
+              "RelativeToolTip": "StoreManagement.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:02:02.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Api\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "StoreManagement.Api\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAhwA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:17:29.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthenticationResult.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "RelativeToolTip": "StoreManagement.Application\\Services\\Authentication\\AuthenticationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:11:34.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "RelativeToolTip": "StoreManagement.Application\\Services\\Authentication\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:07:42.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "StoreManagement.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "RelativeToolTip": "StoreManagement.Application\\Services\\Authentication\\AuthenticationService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T11:07:08.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StoreManagement.Api",
               "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\StoreManagement.Api.csproj",
               "RelativeDocumentMoniker": "StoreManagement.Api\\StoreManagement.Api.csproj",
@@ -30,20 +145,7 @@
               "RelativeToolTip": "StoreManagement.Api\\StoreManagement.Api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-12T21:41:44.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\Program.cs",
-              "RelativeDocumentMoniker": "StoreManagement.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\Program.cs",
-              "RelativeToolTip": "StoreManagement.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T21:38:14.977Z",
+              "WhenOpened": "2024-12-13T10:34:23.156Z",
               "EditorCaption": ""
             }
           ]

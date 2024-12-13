@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "yElKRyBdHfk=",
+  "dgSpecHash": "4A1Uj93tsME=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\StoreManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
