@@ -41,3 +41,14 @@ C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagem
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Infrastructure.pdb
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\StoreManagement.Domain.pdb
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
