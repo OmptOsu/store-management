@@ -1,6 +1,8 @@
-﻿namespace StoreManagement.Application.Common.Interfaces.Authentication;
+﻿using StoreManagement.Domain.Entities;
+
+namespace StoreManagement.Application.Common.Interfaces.Authentication;
 
 public interface IJwtTokenGenerator
 {
-    string GenerateToken(Guid uderId, string firstName, string lastName); 
+    string GenerateToken(User user); 
 }
