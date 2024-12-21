@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "WF49mXS+gF8=",
+  "dgSpecHash": "nHD9jTeLVxU=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Domain\\StoreManagement.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Dudu\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

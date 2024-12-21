@@ -52,3 +52,4 @@ C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagem
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ErrorOr.dll

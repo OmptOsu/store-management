@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mQUCmEQTOGM=",
+  "dgSpecHash": "WSva0cuyhl4=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Application\\StoreManagement.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Dudu\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512"
   ],
   "logs": []

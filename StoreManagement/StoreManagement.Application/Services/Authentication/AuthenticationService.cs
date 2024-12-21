@@ -1,5 +1,7 @@
-﻿using StoreManagement.Application.Common.Interfaces.Authentication;
+﻿using ErrorOr;
+using StoreManagement.Application.Common.Interfaces.Authentication;
 using StoreManagement.Application.Common.Interfaces.Persistence;
+using StoreManagement.Domain.Common.Errors;
 using StoreManagement.Domain.Entities;
 
 namespace StoreManagement.Application.Services.Authentication;
@@ -16,16 +18,16 @@ public class AuthenticationService: IAuthenticationService
         _userRepository = userRepository;
     }
 
-    public AuthenticationResult Login(string email, string password)
+    public ErrorOr<AuthenticationResult> Login(string email, string password)
     {
         if(_userRepository.GetUserByEmail(email) is not User user)
         {
-            throw new Exception("User with this email does not exist");
+            return Errors.Authentication.InvalidCredentials;
         }
 
         if (user.Password != password)
         {
-            throw new Exception("Invalid password");
+            return Errors.Authentication.InvalidCredentials;
         }
 
         var token = _jwtTokenGenerator.GenerateToken(user);
@@ -36,11 +38,11 @@ public class AuthenticationService: IAuthenticationService
             token);
     }
 
-    public AuthenticationResult Register(string firstName, string lastName, string email, string password)
+    public ErrorOr<AuthenticationResult> Register(string firstName, string lastName, string email, string password)
     {
         if(_userRepository.GetUserByEmail(email) is not null)
         {
-            throw new Exception("User with this email already exists");
+            return Errors.User.DuplicateEmail;
         }
 
         var user = new User 
