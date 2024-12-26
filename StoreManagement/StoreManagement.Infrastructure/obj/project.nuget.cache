@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "54cRXK1WAvs=",
+  "dgSpecHash": "kukmCthsibY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dudu\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\9.0.0\\microsoft.extensions.configuration.binder.9.0.0.nupkg.sha512",
