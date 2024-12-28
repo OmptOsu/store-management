@@ -1,5 +1,4 @@
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using StoreManagement.Api.Common.Errors;
+using StoreManagement.Api;
 using StoreManagement.Application;
 using StoreManagement.Infrastructure;
 
@@ -8,9 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
     builder.Services
         .AddApplication()
         .AddInfrastructure(builder.Configuration)
-        .AddControllers();
-
-    builder.Services.AddSingleton<ProblemDetailsFactory, StoreManagementProblemDetailsFactory>();
+        .AddPresentation();
 
     builder.Services.AddEndpointsApiExplorer();
     builder.Services.AddSwaggerGen();

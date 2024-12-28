@@ -55,3 +55,6 @@ C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagem
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\ErrorOr.dll
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MediatR.dll
 C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mapster.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mapster.Core.dll
+C:\Users\Dudu\Desktop\Projetos\store-management-api\StoreManagement\StoreManagement.Api\bin\Debug\net8.0\Mapster.DependencyInjection.dll

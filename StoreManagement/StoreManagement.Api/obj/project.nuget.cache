@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "FwAwka/k2rE=",
+  "dgSpecHash": "wtvj5Dl3m0k=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Api\\StoreManagement.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dudu\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.11\\microsoft.aspnetcore.openapi.8.0.11.nupkg.sha512",
