@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kukmCthsibY=",
+  "dgSpecHash": "bau1cArkuoY=",
   "success": true,
   "projectFilePath": "C:\\Users\\Dudu\\Desktop\\Projetos\\store-management-api\\StoreManagement\\StoreManagement.Infrastructure\\StoreManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dudu\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Dudu\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Dudu\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
