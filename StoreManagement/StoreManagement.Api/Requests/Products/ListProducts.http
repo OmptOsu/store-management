@@ -1,0 +1,5 @@
+@host = https://localhost:7125
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MTM0MTg4OC1jZTNlLTQzYmUtOTU5OS1mMGEwNDU3Zjc5NWIiLCJnaXZlbl9uYW1lIjoiSm9obiIsImZhbWlseV9uYW1lIjoiRG9lIiwianRpIjoiYmM4NWY1MWQtODg4NS00YmM4LTg5ZTQtNDJhNDJmZjhjNjQ4IiwiZXhwIjoxNzM2NTQzNDU1LCJpc3MiOiJTdG9yZU1hbmFnZW1lbnRBcGkiLCJhdWQiOiJTdG9yZU1hbmFnZW1lbnQifQ.aO9491wIEqSg0QJ2sFLyiuJE1UJT94z285Q5-X3R1Ag
+
+GET {{host}}/product
+Authorization: Bearer {{token}}

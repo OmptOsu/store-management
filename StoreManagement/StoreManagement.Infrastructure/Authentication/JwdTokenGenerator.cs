@@ -12,11 +12,11 @@ namespace StoreManagement.Infrastructure.Authentication;
 public class JwtTokenGenerator : IJwtTokenGenerator
 {
 
-    private readonly JwdSettings _jwtSettings;
+    private readonly JwtSettings _jwtSettings;
 
     private readonly IDateTimeProvider _dateTimeProvider;
 
-    public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwdSettings> jwtOptions)
+    public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSettings> jwtOptions)
     {
         _dateTimeProvider = dateTimeProvider;
         _jwtSettings = jwtOptions.Value;

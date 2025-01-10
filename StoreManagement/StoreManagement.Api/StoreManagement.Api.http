@@ -1,6 +1,0 @@
-@StoreManagement.Api_HostAddress = http://localhost:5004
-
-GET {{StoreManagement.Api_HostAddress}}//
-Accept: application/json
-
-###

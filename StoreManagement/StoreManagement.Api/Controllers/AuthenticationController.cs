@@ -7,10 +7,12 @@ using MediatR;
 using StoreManagement.Application.Authentication.Commands.Register;
 using StoreManagement.Application.Authentication.Queries.Login;
 using MapsterMapper;
+using Microsoft.AspNetCore.Authorization;
 
 namespace StoreManagement.Api.Controllers;
 
 [Route("auth")]
+[AllowAnonymous]
 public class AuthenticationController : ApiController
 {
     private readonly ISender _mediator;

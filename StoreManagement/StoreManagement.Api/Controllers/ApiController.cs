@@ -1,4 +1,5 @@
 ﻿using ErrorOr;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
 using StoreManagement.Api.Common.Http;
@@ -6,6 +7,7 @@ using StoreManagement.Api.Common.Http;
 namespace StoreManagement.Api.Controllers;
 
 [ApiController]
+[Authorize]
 public class ApiController : ControllerBase
 {
     protected IActionResult Problem(List<Error> errors)
@@ -22,7 +24,7 @@ public class ApiController : ControllerBase
         
         HttpContext.Items[HttpContextItemKeys.Errors] = errors;
 
-        return Problem(errors.FirstOrDefault(););
+        return Problem(errors.FirstOrDefault());
     }
 
     private IActionResult Problem(Error error)

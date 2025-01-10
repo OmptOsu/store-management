@@ -1,6 +1,6 @@
 ﻿namespace StoreManagement.Infrastructure.Authentication;
 
-public class JwdSettings
+public class JwtSettings
 {
     public const string SectionName = "JwtSettings";
     public string Secret { get; init; } = null!;
